@@ -1,29 +1,29 @@
-# Web Development Project 2 - Flashcards App
+# Web Development Project 3 - Flashcards App
 
 Submitted by: **Jafrul Amin**
 
-This web app is a simple flashcard application designed to help users study and review about famous cities and their remarkable landmarks. It displays a single card at a time, allowing the user to flip the card to view the answer, and navigate through the flashcards using forward and backward arrows.
+This web app is a simple flashcard application designed to help users study and review famous cities and their remarkable landmarks. It displays a single card at a time, allowing the user to flip the card by clicking on it to view the answer, and navigate through the flashcards using forward and backward arrow buttons.
 
-Time spent: **4** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
-- [x] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [x] **A list of card pairs is created**
-- [x] **Clicking on the card shows the corresponding component of the information pair**
-- [x] **Clicking the next button displays a new card**
+- [x] **The user can enter their guess in a box before seeing the flipside of the card**
+- [x] **Clicking on a submit button shows visual feedback about whether the answer was correct or incorrect**
+- [x] **A back button displayed on the card can be used to return to the previous card in a set sequence**
+- [x] **A next button displayed on the card can be used to navigate to the next card in a set sequence**
 
 The following **additional** features are implemented:
 
 - [x] A flip animation is added when clicking on the card, enhancing the user experience by smoothly revealing the answer.
-- [x] Backward and forward arrow navigation have been implemented to allow the user to review previous or upcoming cards.
+- [x] A shuffle button is available to randomize the order of the cards.
+- [x] Streak tracking is implemented, displaying both the current streak and the longest streak of correct answers.
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented required features:
+Here's a walkthrough of the implemented required features:
 
 <img src='./VideoWalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
@@ -31,9 +31,11 @@ Here's a walkthrough of implemented required features:
 
 GIF created with ...
 
-<!-- [ScreenToGif](https://www.screentogif.com/) for Windows -->
+[ScreenToGif](https://www.screentogif.com/) for Windows
 
 ## Notes
+
+<!-- Any additional notes can be added here -->
 
 ## License
 
